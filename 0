@@ -1,0 +1,8 @@
+Setup
+
+  <ESC> is a very far key, you can set your aliases to something closer. 
+
+  `vim ~/.vimrc.local` opens vim in the .vimrc.local in your root directory
+  add `inoremap jj <ESC>` to the file on a new line to set jj to act as alias
+  to <ESC>. We chose this alias because we would rarely type this in regular
+  vim use.
