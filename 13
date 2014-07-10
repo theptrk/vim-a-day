@@ -1,0 +1,10 @@
+Play with find and replace
+
+kale brok kale brok
+bork kale brok kale
+
+In GUI mode, `:&s/<target word>/<replace word>/g`
+  for a global replace
+
+In GUI mode, `:&s/<target word>/<replace word>/gc`
+  for a replace with confirmation for each word
